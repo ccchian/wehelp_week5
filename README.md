@@ -1,6 +1,10 @@
-##1.建立一個新的資料庫，取名字為 website。
+## 1.建立一個新的資料庫，取名字為 website。
 create database website;
-2.在資料庫中，建立會員資料表，取名字為 member。資料表必須包含欄位設定
+
+<img src="[https://github.com/ccchian/wehelp_week5/commit/423dab1196debd4980b9eb5eb159d6906e1990ac](https://github.com/ccchian/wehelp_week5/blob/main/data.sql](https://github.com/ccchian/wehelp_week5/blob/main/usename:pwd%3Dtest.jpg)"></img>
+
+
+## 2.在資料庫中，建立會員資料表，取名字為 member。資料表必須包含欄位設定
 mysql> CREATE TABLE member(
     -> id bigint PRIMARY KEY AUTO_INCREMENT,
     -> name varchar(255) NOT NULL,
