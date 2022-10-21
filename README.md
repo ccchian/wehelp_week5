@@ -1,4 +1,4 @@
-1.建立一個新的資料庫，取名字為 website。
+##1.建立一個新的資料庫，取名字為 website。
 create database website;
 2.在資料庫中，建立會員資料表，取名字為 member。資料表必須包含欄位設定
 mysql> CREATE TABLE member(
